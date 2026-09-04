@@ -9665,5 +9665,5 @@ st.sidebar.markdown("""
 
 可用于风电、海洋平台等工程系统的数据时序预测、分类，故障诊断与优化求解
 
-© 2026 陈嘉豪开发，联系邮箱:lirainschen@163.com
+© 2026 OEye contributors
 """)

@@ -34,3 +34,14 @@ OutputSummary.dat
 build/
 dist/
 release/
+
+# Local-only data and delivery materials
+packaging/
+OEye.jpeg
+PACKAGING_*.md
+requirements-bootstrap.txt
+scripts/make_source_package.ps1
+指南说明.md
+计算机软件著作权登记申请表.md
+软件著作权-说明书.md
+鸢尾花分类.csv
